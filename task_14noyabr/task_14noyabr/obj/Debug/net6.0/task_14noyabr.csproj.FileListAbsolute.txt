@@ -1,0 +1,4 @@
+C:\Users\kamalas\Desktop\task_14noyabr\task_14noyabr\obj\Debug\net6.0\task_14noyabr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamalas\Desktop\task_14noyabr\task_14noyabr\obj\Debug\net6.0\task_14noyabr.AssemblyInfoInputs.cache
+C:\Users\kamalas\Desktop\task_14noyabr\task_14noyabr\obj\Debug\net6.0\task_14noyabr.AssemblyInfo.cs
+C:\Users\kamalas\Desktop\task_14noyabr\task_14noyabr\obj\Debug\net6.0\task_14noyabr.csproj.CoreCompileInputs.cache
